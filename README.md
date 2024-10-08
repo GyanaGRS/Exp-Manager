@@ -26,7 +26,7 @@ Expense Manager App is a powerful tool designed to help individuals and business
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/mianasadali1/expense_manager_app_mian_speaks.git`
+1. Clone the repository: `git clone https://github.com/GyanaGRS/Exp-Manager.git`
 2. Open Android Studio.
 3. Select "Open an Existing Project" from the welcome screen.
 4. Navigate to the cloned repository location and select the project's root folder.
