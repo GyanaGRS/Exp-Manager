@@ -49,7 +49,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request.
 
 
-Project Link: [GitHub Repository](https://github.com/mianasadali1/expense_manager_app_mian_speaks)
+Project Link: [GitHub Repository](https:https://github.com/GyanaGRS/Exp-Manager.git)
 
 ## License
 
