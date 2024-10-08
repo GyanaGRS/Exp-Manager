@@ -1,22 +1,13 @@
 # Expense Manager App
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 Expense Manager App is a powerful tool designed to help individuals and businesses easily manage their expenses. It provides a user-friendly interface and robust functionality to track, categorize, and analyze income or expenses efficiently.
-
-In this video tutorial, you'll learn how to make an Expense Manager application that allows users to manage income, expenses, notes, and accounts. The tutorial covers the complete process of creating an advanced expense manager application, making it suitable for both beginner and experienced programmers. 
-
-[Watch the tutorial on YouTube](https://youtu.be/MHlWd0AOQuU)
-
-The tutorial covers the following topics:
 
 - Integration of Realm database for data storage.
 - Implementation of MVVM Architecture for a clean and organized codebase.
 - Usage of Bottom Sheet Fragments for a modern and intuitive user interface.
 - Creation of Custom Alert Dialogs for interactive user interactions.
-- Application of professional code structures and best practices.
 
 ## Features
 
@@ -57,11 +48,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push the branch: `git push origin my-new-feature`
 5. Submit a pull request.
 
-## Contact
-
-For any questions or inquiries, please reach out to:
-
-Your Name: [questions@mianasad.com]
 
 Project Link: [GitHub Repository](https://github.com/mianasadali1/expense_manager_app_mian_speaks)
 
